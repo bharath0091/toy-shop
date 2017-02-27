@@ -12,5 +12,5 @@ What was used :
 -> Node
 
 To run :
-npm install
-npm run-script mocha
+-> npm install
+-> npm run-script mocha
