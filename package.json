@@ -1,0 +1,11 @@
+{
+  "name": "toy-shop",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "mocha" : "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
