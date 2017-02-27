@@ -4,6 +4,13 @@ toy-shop problem
 -> input : no of x, y, z balls, p,q,r,s prices
 -> output : the best profit value
 
+What was used :
+-> ES6 features like : class  and Arrow functions
+-> OOPs concepts
+-> Functional programming
+-> Mocha unit testing
+-> Node
+
 To run :
 npm install
-npm unit-test
+npm run-script mocha
